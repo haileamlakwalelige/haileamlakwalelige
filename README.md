@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN Stack( to make my self expert)**
 
-- 👨‍💻 All of my projects are available at [https://haileamlakwaleligne.netlify.app/ (Just simple website to check me)](https://haileamlakwaleligne.netlify.app/ (Just simple website to check me))
+- 👨‍💻 All of my projects are available at https://haileamlakwaleligneporfolio.netlify.app/ (Just a simple website to check me)
 
 - 💬 Ask me about **React js, MERN, and others**
 
 - 📫 How to reach me **haileamlakwaleligne3910@gmail.com**
 
-- ⚡ Fun fact **i am funny and cool.**
+- ⚡ Fun fact **I am funny and cool.**
 
 <h3>As a passionate, energetic, and creative web developer, I take great pride in my work and always strive to pay close attention to every detail, ensuring that I create not just a better website, but the best website possible.</h3>
 
