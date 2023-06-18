@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack( to make my self expert)**
 
-- 👨‍💻 All of my projects are available at https://haileamlakwaleligneporfolio.netlify.app/ (Just a simple website to check me)
+- 👨‍💻 All of my projects are available at https://haileamlakwaleligneportfolio.netlify.app/ (Just a simple website to check me)
 
 - 💬 Ask me about **React js, MERN, and others**
 
