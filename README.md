@@ -1,6 +1,6 @@
 <img width="100%" alt="MERN stack" src="https://static.vecteezy.com/system/resources/previews/016/962/517/original/web-site-development-programming-or-coding-banner-free-vector.jpg" >
 <h1 align="center">Hi 👋, I'm Haileamlak Waleligne</h1>
-<h3 align="center">A passionate WEB Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=0e75b6&style=flat" alt="haileamlakwalelige" /> </p>
