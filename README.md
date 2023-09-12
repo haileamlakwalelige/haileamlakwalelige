@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=0e75b6&style=flat" alt="haileamlakwalelige" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack e-commerce app, Personal Website, and other projects**
+- 🔭 I’m currently working on **MERN Stack e-commerce app, Laravel App, and other projects**
+- I Finished My Personal Website: https://haileamlakwaleligneportfolio.netlify.app/
 
 - 🌱 I’m currently learning **MERN Stack( to make my self expert)**
 
