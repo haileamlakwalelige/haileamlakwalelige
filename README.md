@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **haileamlakwaleligne3910@gmail.com**
 
-- ⚡ Fun fact **I am funny and cool.**
+- ⚡ Fun fact **I am funny , cool and a business man.**
+  
+- 🌱 Super fact **I Love Business so much**
 
 <h3>As a passionate, energetic, and creative web developer, I take great pride in my work and always strive to pay close attention to every detail, ensuring that I create not just a better website, but the best website possible.</h3>
 
