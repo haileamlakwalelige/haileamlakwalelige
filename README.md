@@ -1,4 +1,4 @@
-<img width="100%" alt="MERN stack" src="https://static.vecteezy.com/system/resources/previews/016/962/517/original/web-site-development-programming-or-coding-banner-free-vector.jpg" >
+<img width="100%" alt="MERN stack" src="me.png" >
 <h1 align="center">Hi 👋, I'm Haileamlak Waleligne</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
