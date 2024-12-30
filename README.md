@@ -1,4 +1,4 @@
-<img width="100%" alt="MERN stack" src="me.png" >
+
 <h1 align="center">Hi 👋, I'm Haileamlak Waleligne</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
