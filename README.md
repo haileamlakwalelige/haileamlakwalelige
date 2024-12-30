@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React js, MERN, and others**
 
-- 📫 How to reach me **haileamlakwaleligne3910@gmail.com**
+- 📫 How to reach me **haileopia22@gmail.com**
 
 - ⚡ Fun fact **I am funny , cool and a business man.**
 - 🌱 Super fact **I Love Business so much**
