@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **MERN Stack( to make my self expert)**
 
-- 👨‍💻 All of my projects are available at https://haileopia.netlify.app/ (Just a simple website to check me)
+- 👨‍💻 Some of my projects are available at https://haileopia.vercel.app/ 
 
-- 💬 Ask me about **React js, MERN, and others**
+- 💬 Ask me about **React js, Next js, MERN, and others**
 
 - 📫 How to reach me **haileopia22@gmail.com**
 
