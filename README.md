@@ -35,10 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haileamlakwalelige&show_icons=true&locale=en&layout=compact" alt="haileamlakwalelige" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haileamlakwalelige&show_icons=true&locale=en" alt="haileamlakwalelige" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haileamlakwalelige&" alt="haileamlakwalelige" /></p>
-
 [![Haileamlak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=github-compact)](https://github.com/haileamlakwalelige/github-readme-activity-graph)
 
 <!-- <a href="https://www.buymeacoffee.com/haileamlakh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a> -->
