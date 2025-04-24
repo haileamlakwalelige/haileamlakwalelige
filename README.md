@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=0e75b6&style=flat" alt="haileamlakwalelige" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack e-commerce app, React Native App, and other projects**
+- 🔭 I’m currently working on **MERN Stack SaaS Project, React Native App, and other projects**
 - I Finished My Personal Website: https://haileopia.vercel.app/
 
-- 🌱 I’m currently learning **MERN Stack( to make my self expert)**
+- 🌱 I’m currently learning **Nest js and Flutter**
 
 - 👨‍💻 Some of my projects are available at https://haileopia.vercel.app/ 
 
