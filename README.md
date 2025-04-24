@@ -34,6 +34,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=haileamlakwalelige&theme=matrix&row=1&column=6)](https://github.com/haileamlakwalelige/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haileamlakwalelige&show_icons=true&locale=en&layout=compact" alt="haileamlakwalelige" /></p>
+<br/>
+
+
 
 [![Haileamlak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=github-compact)](https://github.com/haileamlakwalelige/github-readme-activity-graph)
 
