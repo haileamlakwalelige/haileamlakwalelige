@@ -1,29 +1,31 @@
 <!-- =========================================================
-  GitHub Profile README — https://github.com/haileamlakwalelige
+  GitHub Profile README — powered by https://haileopia.vercel.app/
   Shows on: https://github.com/haileamlakwalelige
 ========================================================== -->
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/haileamlakwalelige/haileamlakwalelige/main/me.png" width="140" height="140" alt="Haileamlak Waleligne" style="border-radius:50%;" />
+  <img src="https://haileopia.vercel.app/img/profile.png" width="150" height="150" alt="Haileamlak Waleligne" style="border-radius:50%; object-fit:cover;" />
 
-  <h1>Hi, I'm Haileamlak Waleligne 👋</h1>
+  <h1>Hi there! 👋 I'm Haileamlak Waleligne</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Software+Developer+%C2%B7+Builder+%C2%B7+Entrepreneur;MERN+%7C+Next.js+%7C+React+Native;Based+in+Addis+Ababa%2C+Ethiopia;Don't+just+write+code+%E2%80%94+create+something+unique." alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Front-End+%26+Mobile+App+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter;Building+beautiful%2C+high-performance+apps;Based+in+Addis+Ababa%2C+Ethiopia" alt="Typing headline" />
   </p>
+
+  <p><b>Senior software developer</b> skilled in React, Next.js, React Native, Flutter, HTML, CSS, JavaScript, Tailwind CSS, and more.</p>
 
   <p>
     <a href="https://haileopia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-haileopia.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:haileopia22@gmail.com"><img src="https://img.shields.io/badge/Email-haileopia22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Available-Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
+    <a href="https://wa.me/251939100302"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://t.me/Haileopia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/haileamlakwalelige?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
-    <img src="https://img.shields.io/badge/Public%20Repos-144+-111827?style=for-the-badge&logo=github" alt="Public repos" />
+    <img src="https://img.shields.io/badge/Available-Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
   </p>
 
 </div>
@@ -32,27 +34,23 @@
 
 ## About me
 
-I'm a passionate, energetic software developer from **Addis Ababa, Ethiopia**. I build web & mobile products with care for craft, UX, and real business value.
+I'm a **Front-End & Mobile App Developer** who builds intuitive, high-performance applications with clean UI and strong UX. I take pride in the details — shipping products that look great and work even better.
 
 > **"Don't just write code; solve something or create something unique."**  
 > — *Haileamlak Waleligne*
 
 | | |
 |:--|:--|
-| 🔭 **Working on** | MERN Stack SaaS, React Native apps, and product experiments |
-| 🌱 **Learning** | NestJS · Flutter · stronger backend architecture |
-| 💬 **Ask me about** | React · Next.js · MERN · Node.js · product building |
-| 💼 **Mindset** | Developer + entrepreneur — I love business as much as code |
-| ⚡ **Fun fact** | I'm funny, cool, and always shipping something |
-| 📫 **Reach me** | [haileopia22@gmail.com](mailto:haileopia22@gmail.com) · [Portfolio](https://haileopia.vercel.app/) |
+| 🧑‍💻 **Role** | Front-End & Mobile App Developer |
+| 🔭 **Focus** | React · Next.js · React Native · Flutter · Node.js |
+| 🌱 **Also learning** | NestJS · deeper Flutter & mobile architecture |
+| 💬 **Ask me about** | React, Next.js, MERN, mobile apps, UI polish |
+| 🌍 **Location** | Addis Ababa, Ethiopia |
+| 📫 **Contact** | [haileopia22@gmail.com](mailto:haileopia22@gmail.com) · [Portfolio](https://haileopia.vercel.app/) |
 
-<details>
-<summary><b>A bit more about how I work</b></summary>
-<br/>
-
-As a creative web developer, I take pride in the details — aiming not just for a better product, but the best one I can ship. I care about clean UI, solid APIs, and ideas that can grow into real businesses.
-
-</details>
+<p align="center">
+  <img src="https://haileopia.vercel.app/img/self.jpg" width="280" alt="Haileamlak" style="border-radius:12px;" />
+</p>
 
 ---
 
@@ -60,96 +58,111 @@ As a creative web developer, I take pride in the details — aiming not just for
 
 <p align="center">
   <a href="https://haileopia.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/haileamlakwalelige" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/haileamlak-waleligne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Haileopia" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/haileamlak-waleligne-95b716231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/251939100302" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/Haileopia" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.hackerrank.com/@haileamlakwalel1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
   <a href="https://leetcode.com/haileamlakwaleligne3910/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:haileopia22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
-## Featured projects
+## Portfolio highlights
 
-Projects pulled from my public GitHub work — more live demos on [haileopia.vercel.app](https://haileopia.vercel.app/).
+Featured work from [haileopia.vercel.app](https://haileopia.vercel.app/) — real products, clones, and client projects.
 
-| Project | Stack | Links |
-|:--------|:------|:------|
-| **Task Management System** | React · Node · Express · MySQL | [Repo](https://github.com/haileamlakwalelige/Task-Management-System-in-React-js-Node-js-Express-js-and-MYSQL) · [Live](https://task-management-system-in-react-js-node-js-e-haileamlakwalelige.vercel.app) |
-| **Food Restaurant App** | React / modern frontend | [Repo](https://github.com/haileamlakwalelige/food-restaurant-app) · [Live](https://food-restaurant-one.vercel.app) |
-| **Yenetta Code Clone** | Next.js | [Repo](https://github.com/haileamlakwalelige/Yenetta-Code-Site-Clone-in-Next-js) · [Live](https://yenettacodeclone.netlify.app/) |
-| **Kid Learning App** | React Native | [Repo](https://github.com/haileamlakwalelige/react-native-kid-learning-app) |
-| **Fitness Workout App** | Expo · React Native · TypeScript | [Repo](https://github.com/haileamlakwalelige/fitness-workout-expo-react-native-app) |
-| **Hotel Booking API** | Express.js | [Repo](https://github.com/haileamlakwalelige/Express.js-Hotel-Booking-API) |
-| **Discord Clone** | Next.js | [Repo](https://github.com/haileamlakwalelige/discord-clone-in-next-js) |
-| **Employee Management** | React · Node · Express · MySQL | [Repo](https://github.com/haileamlakwalelige/Employee-Management-System-in-React-js-Node-js-Express-js-and-Mysql) |
-| **MERN Task Manager** | MongoDB · Express · React · Node | [Repo](https://github.com/haileamlakwalelige/MERN-Stack-Task-Management-app) |
-| **Commodity Exchange** | Industrial / web app | [Repo](https://github.com/haileamlakwalelige/web-based-commodity-exchange-industrial-project) |
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://niimblr-clone.vercel.app/">
+        <img src="https://haileopia.vercel.app/img/project1.png" alt="Niimlbr Feedback" width="100%" />
+      </a>
+      <h3>Niimlbr Feedback</h3>
+      <p>A SaaS platform connecting users and clients with real-time feedback for seamless collaboration.</p>
+      <a href="https://niimblr-clone.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel" alt="Live" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://enln-institutions.vercel.app/">
+        <img src="https://haileopia.vercel.app/img/project2.png" alt="E-Learning Platform" width="100%" />
+      </a>
+      <h3>E-Learning Platform</h3>
+      <p>A subscription-based e-learning platform with fully functional features for online education and engagement.</p>
+      <a href="https://enln-institutions.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel" alt="Live" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://haileopia.vercel.app/img/project3.png" alt="Real-Estate Platform" width="100%" />
+      <h3>Real-Estate Platform</h3>
+      <p>An advanced real estate platform for buying, selling, connecting with sellers, favorites, and notifications.</p>
+      <img src="https://img.shields.io/badge/Featured%20on%20Portfolio-58A6FF?style=flat-square" alt="Portfolio" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://yessinternational.org/">
+        <img src="https://haileopia.vercel.app/img/project4.png" alt="YESS Ethiopia" width="100%" />
+      </a>
+      <h3>YESS Ethiopia</h3>
+      <p>International charity org (USA-registered) supporting youth through education, scholarships, and entrepreneurship.</p>
+      <a href="https://yessinternational.org/"><img src="https://img.shields.io/badge/Live%20Site-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://yenettacodeclone.netlify.app/">
+        <img src="https://haileopia.vercel.app/img/project5.png" alt="Yenetta Code" width="70%" />
+      </a>
+      <h3>Yenetta Code</h3>
+      <p>Animation-based company site with interactive views and an engaging UI to inspire kids learning technology.</p>
+      <a href="https://yenettacodeclone.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=netlify" alt="Live" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/haileamlakwalelige?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+  <a href="https://haileopia.vercel.app/#projects">
+    <img src="https://img.shields.io/badge/See%20full%20portfolio-%E2%86%92-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
   </a>
 </p>
 
 ---
 
-## Tech stack
+## Skills
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass" alt="Frontend skills" />
-</p>
+I'm a skilled **Front-End and Mobile App Developer** with experience across web and mobile.
 
-### Backend & databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,php" alt="Backend skills" />
-</p>
+| Skill | Level | What I use it for |
+|:------|:------|:------------------|
+| **HTML** | Strong | Clean structure, performance-friendly markup |
+| **CSS** | Strong | Responsive, visually polished layouts |
+| **JavaScript** | Strong | Dynamic UX and interactive web experiences |
+| **React** | Strong | Fast, scalable, component-driven apps |
+| **Next.js** | Strong | SEO-friendly SSR/SSG web apps |
+| **Node.js** | Strong | APIs, servers, and backend services |
+| **React Native** | Strong | Cross-platform native mobile apps |
+| **Flutter** | Basic → growing | High-performance mobile UIs |
+| **Figma** | Basic → growing | UI/UX wireframes & prototyping |
+| **Tailwind CSS** | Experienced | Rapid, consistent modern styling |
 
-### Mobile & tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,python,cpp,figma,git,postman,vercel" alt="Mobile and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,sass,flutter,figma,git,postman,vercel" alt="Skills icons" />
 </p>
-
-<details>
-<summary><b>Full list (badges)</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-</details>
 
 ---
 
-## What I can help with
+## Services
 
-```text
-┌─────────────────────┬─────────────────────┬─────────────────────┐
-│  Full-stack web     │  Mobile apps        │  APIs & backends    │
-│  React / Next /     │  React Native /     │  Node / Express /   │
-│  MERN products      │  Expo starters      │  REST services      │
-├─────────────────────┼─────────────────────┼─────────────────────┤
-│  UI polish & UX     │  SaaS foundations   │  Learning & clones  │
-│  Tailwind / design  │  Auth, CRUD, dash   │  Shipping fast MVPs │
-└─────────────────────┴─────────────────────┴─────────────────────┘
-```
+**Bringing your ideas to life** — I build high-performance apps with stunning, user-friendly interfaces using React, Next.js, TypeScript, and mobile stacks.
+
+| Service | What you get |
+|:--------|:-------------|
+| 🌐 **Web Development** | Responsive, modern websites that look great and work everywhere |
+| 🎨 **UI/UX Design** | Clean interfaces that improve navigation and engagement |
+| ⚡ **Web Optimization** | Faster loads, better performance, and stronger SEO |
+| 📱 **Mobile App Development** | High-performance React Native / Flutter experiences |
+| 🧩 **Custom Web Applications** | Tailored apps focused on security, scale, and real needs |
+| 🔍 **SEO** | Keyword research, on-page SEO, and visibility best practices |
 
 ---
 
@@ -174,12 +187,6 @@ Projects pulled from my public GitHub work — more live demos on [haileopia.ver
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
-  <br/>
-
-  <a href="https://stardev.io/developers/haileamlakwalelige">
-    <img alt="Languages on stardev.io" src="https://stardev.io/developers/haileamlakwalelige/badge/languages/global.svg" />
-  </a>
-
 </div>
 
 ---
@@ -194,19 +201,9 @@ Projects pulled from my public GitHub work — more live demos on [haileopia.ver
   </picture>
 </div>
 
-> After you push, enable the **Generate Snake** GitHub Action once — then this animation updates automatically.
-
 ---
 
-## Daily dose of motivation
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-</div>
-
----
-
-## Profile summary card
+## Profile summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haileamlakwalelige&theme=tokyonight" alt="Profile details" />
@@ -220,11 +217,27 @@ Projects pulled from my public GitHub work — more live demos on [haileopia.ver
 
 ---
 
+## Let's talk
+
+<p align="center">
+  <img src="https://haileopia.vercel.app/img/contact.png" width="220" alt="Contact" />
+</p>
+
+Want to collaborate or hire me? Reach out anytime:
+
+- 🌐 Portfolio: [haileopia.vercel.app](https://haileopia.vercel.app/)
+- ✉️ Email: [haileopia22@gmail.com](mailto:haileopia22@gmail.com)
+- 💬 WhatsApp: [+251 939 100 302](https://wa.me/251939100302)
+- ✈️ Telegram: [@Haileopia](https://t.me/Haileopia)
+- 💼 LinkedIn: [haileamlak-waleligne](https://www.linkedin.com/in/haileamlak-waleligne/)
+
+---
+
 <div align="center">
 
 ### Thanks for visiting!
 
-If you like my work, drop a ⭐ on a repo, check the [portfolio](https://haileopia.vercel.app/), or say hi at **haileopia22@gmail.com**.
+Explore more on my [portfolio](https://haileopia.vercel.app/) — and feel free to star a repo if you like the work.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="footer wave" />
 
