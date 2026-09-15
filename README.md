@@ -10,10 +10,10 @@
   <h1>Hi there! 👋 I'm Haileamlak Waleligne</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Front-End+%26+Mobile+App+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter;Building+beautiful%2C+high-performance+apps;Based+in+Addis+Ababa%2C+Ethiopia" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+%C2%B7+Front-End+%C2%B7+Backend+%C2%B7+Mobile;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Express;MongoDB+%C2%B7+MySQL+%C2%B7+React+Native+%C2%B7+Flutter;Building+end-to-end+high-performance+apps;Based+in+Addis+Ababa%2C+Ethiopia" alt="Typing headline" />
   </p>
 
-  <p><b>Senior software developer</b> skilled in React, Next.js, React Native, Flutter, HTML, CSS, JavaScript, Tailwind CSS, and more.</p>
+  <p><b>Full-stack software developer</b> skilled in frontend, backend, and mobile — React, Next.js, Node.js, Express.js, MongoDB, MySQL, React Native, Flutter, and more.</p>
 
   <p>
     <a href="https://haileopia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-haileopia.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -34,23 +34,19 @@
 
 ## About me
 
-I'm a **Front-End & Mobile App Developer** who builds intuitive, high-performance applications with clean UI and strong UX. I take pride in the details — shipping products that look great and work even better.
+I'm a **Full-Stack Developer** — frontend, backend, and mobile. I build intuitive UIs, solid APIs, and complete products with clean UX and reliable data layers. I take pride in the details — shipping apps that look great and work end to end.
 
 > **"Don't just write code; solve something or create something unique."**  
 > — *Haileamlak Waleligne*
 
 | | |
 |:--|:--|
-| 🧑‍💻 **Role** | Front-End & Mobile App Developer |
-| 🔭 **Focus** | React · Next.js · React Native · Flutter · Node.js |
-| 🌱 **Also learning** | NestJS · deeper Flutter & mobile architecture |
-| 💬 **Ask me about** | React, Next.js, MERN, mobile apps, UI polish |
+| 🧑‍💻 **Role** | Full-Stack Developer (Frontend · Backend · Mobile) |
+| 🔭 **Focus** | React · Next.js · Node.js · Express · MongoDB · MySQL · React Native · Flutter |
+| 🌱 **Also learning** | NestJS · deeper Flutter & backend architecture |
+| 💬 **Ask me about** | MERN, REST APIs, databases, Next.js, mobile apps |
 | 🌍 **Location** | Addis Ababa, Ethiopia |
 | 📫 **Contact** | [haileopia22@gmail.com](mailto:haileopia22@gmail.com) · [Portfolio](https://haileopia.vercel.app/) |
-
-<p align="center">
-  <img src="https://haileopia.vercel.app/img/self.jpg" width="280" alt="Haileamlak" style="border-radius:12px;" />
-</p>
 
 ---
 
@@ -130,20 +126,33 @@ Featured work from [haileopia.vercel.app](https://haileopia.vercel.app/) — rea
 
 ## Skills
 
-I'm a skilled **Front-End and Mobile App Developer** with experience across web and mobile.
+Full-stack experience across **frontend**, **backend**, **databases**, and **mobile**.
 
+### Frontend
 | Skill | Level | What I use it for |
 |:------|:------|:------------------|
-| **HTML** | Strong | Clean structure, performance-friendly markup |
-| **CSS** | Strong | Responsive, visually polished layouts |
-| **JavaScript** | Strong | Dynamic UX and interactive web experiences |
+| **HTML / CSS** | Strong | Clean structure & responsive, polished layouts |
+| **JavaScript / TypeScript** | Strong | Dynamic UX and interactive experiences |
 | **React** | Strong | Fast, scalable, component-driven apps |
 | **Next.js** | Strong | SEO-friendly SSR/SSG web apps |
-| **Node.js** | Strong | APIs, servers, and backend services |
+| **Tailwind CSS** | Experienced | Rapid, consistent modern styling |
+| **Figma** | Basic → growing | UI/UX wireframes & prototyping |
+
+### Backend & databases
+| Skill | Level | What I use it for |
+|:------|:------|:------------------|
+| **Node.js** | Strong | Server-side apps, APIs, and business logic |
+| **Express.js** | Strong | REST APIs, routing, middleware, auth flows |
+| **MongoDB** | Strong | Flexible NoSQL data for MERN / SaaS products |
+| **MySQL** | Strong | Relational schemas, queries, and CRUD systems |
+| **Firebase** | Experienced | Auth, realtime data, and cloud backends |
+| **REST APIs** | Strong | Secure, scalable endpoints for web & mobile |
+
+### Mobile
+| Skill | Level | What I use it for |
+|:------|:------|:------------------|
 | **React Native** | Strong | Cross-platform native mobile apps |
 | **Flutter** | Basic → growing | High-performance mobile UIs |
-| **Figma** | Basic → growing | UI/UX wireframes & prototyping |
-| **Tailwind CSS** | Experienced | Rapid, consistent modern styling |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,sass,flutter,figma,git,postman,vercel" alt="Skills icons" />
@@ -153,16 +162,17 @@ I'm a skilled **Front-End and Mobile App Developer** with experience across web 
 
 ## Services
 
-**Bringing your ideas to life** — I build high-performance apps with stunning, user-friendly interfaces using React, Next.js, TypeScript, and mobile stacks.
+**Bringing your ideas to life** — I build complete products: polished frontends, solid Node/Express backends, databases (MongoDB / MySQL), and mobile apps.
 
 | Service | What you get |
 |:--------|:-------------|
 | 🌐 **Web Development** | Responsive, modern websites that look great and work everywhere |
-| 🎨 **UI/UX Design** | Clean interfaces that improve navigation and engagement |
-| ⚡ **Web Optimization** | Faster loads, better performance, and stronger SEO |
+| ⚙️ **Backend & API Development** | Node.js / Express APIs, auth, and business logic |
+| 🗄️ **Database Design** | MongoDB & MySQL schemas, queries, and data modeling |
 | 📱 **Mobile App Development** | High-performance React Native / Flutter experiences |
-| 🧩 **Custom Web Applications** | Tailored apps focused on security, scale, and real needs |
-| 🔍 **SEO** | Keyword research, on-page SEO, and visibility best practices |
+| 🧩 **Custom Full-Stack Apps** | End-to-end apps focused on security, scale, and real needs |
+| 🎨 **UI/UX Design** | Clean interfaces that improve navigation and engagement |
+| ⚡ **Web Optimization & SEO** | Faster loads, better performance, and stronger visibility |
 
 ---
 
