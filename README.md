@@ -176,6 +176,22 @@ Full-stack experience across **frontend**, **backend**, **databases**, and **mob
 
 ---
 
+## Contributions
+
+<div align="center">
+
+  ### Contribution graph
+  <img src="https://ghchart.rshah.org/58A6FF/haileamlakwalelige" alt="Haileamlak's GitHub contribution chart" width="100%" />
+
+  <br/><br/>
+
+  ### Activity over time
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+
+</div>
+
+---
+
 ## GitHub analytics
 
 <div align="center">
@@ -192,10 +208,6 @@ Full-stack experience across **frontend**, **backend**, **databases**, and **mob
   <br/>
 
   <img src="https://streak-stats.demolab.com?user=haileamlakwalelige&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
