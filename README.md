@@ -10,22 +10,22 @@
   <h1>Hi there! 👋 I'm Haileamlak Waleligne</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+%C2%B7+Front-End+%C2%B7+Backend+%C2%B7+Mobile;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Express;MongoDB+%C2%B7+MySQL+%C2%B7+React+Native+%C2%B7+Flutter;Building+end-to-end+high-performance+apps;Based+in+Addis+Ababa%2C+Ethiopia" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=720&lines=Full-Stack+%C2%B7+Front-End+%C2%B7+Backend+%C2%B7+Mobile;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Express;MongoDB+%C2%B7+MySQL+%C2%B7+React+Native+%C2%B7+Flutter;Building+end-to-end+high-performance+apps;Based+in+Addis+Ababa%2C+Ethiopia" alt="Typing headline" />
   </p>
 
   <p><b>Full-stack software developer</b> skilled in frontend, backend, and mobile — React, Next.js, Node.js, Express.js, MongoDB, MySQL, React Native, Flutter, and more.</p>
 
   <p>
-    <a href="https://haileopia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-haileopia.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://haileopia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-haileopia.vercel.app-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:haileopia22@gmail.com"><img src="https://img.shields.io/badge/Email-haileopia22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/251939100302"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
     <a href="https://t.me/Haileopia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/haileamlakwalelige?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
-    <img src="https://img.shields.io/badge/Available-Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
+    <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=2ea44f&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/haileamlakwalelige?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
+    <img src="https://img.shields.io/badge/Available-Open%20to%20Work-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
   </p>
 
 </div>
@@ -53,7 +53,7 @@ I'm a **Full-Stack Developer** — frontend, backend, and mobile. I build intuit
 ## Connect with me
 
 <p align="center">
-  <a href="https://haileopia.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://haileopia.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/haileamlakwalelige" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/haileamlak-waleligne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Haileopia" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
@@ -77,7 +77,7 @@ Featured work from [haileopia.vercel.app](https://haileopia.vercel.app/) — rea
       </a>
       <h3>Niimlbr Feedback</h3>
       <p>A SaaS platform connecting users and clients with real-time feedback for seamless collaboration.</p>
-      <a href="https://niimblr-clone.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel" alt="Live" /></a>
+      <a href="https://niimblr-clone.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://enln-institutions.vercel.app/">
@@ -85,7 +85,7 @@ Featured work from [haileopia.vercel.app](https://haileopia.vercel.app/) — rea
       </a>
       <h3>E-Learning Platform</h3>
       <p>A subscription-based e-learning platform with fully functional features for online education and engagement.</p>
-      <a href="https://enln-institutions.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel" alt="Live" /></a>
+      <a href="https://enln-institutions.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ Featured work from [haileopia.vercel.app](https://haileopia.vercel.app/) — rea
       <img src="https://haileopia.vercel.app/img/project3.png" alt="Real-Estate Platform" width="100%" />
       <h3>Real-Estate Platform</h3>
       <p>An advanced real estate platform for buying, selling, connecting with sellers, favorites, and notifications.</p>
-      <img src="https://img.shields.io/badge/Featured%20on%20Portfolio-58A6FF?style=flat-square" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Featured%20on%20Portfolio-238636?style=flat-square" alt="Portfolio" />
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://yessinternational.org/">
@@ -111,14 +111,14 @@ Featured work from [haileopia.vercel.app](https://haileopia.vercel.app/) — rea
       </a>
       <h3>Yenetta Code</h3>
       <p>Animation-based company site with interactive views and an engaging UI to inspire kids learning technology.</p>
-      <a href="https://yenettacodeclone.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=netlify" alt="Live" /></a>
+      <a href="https://yenettacodeclone.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=netlify&logoColor=white" alt="Live" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://haileopia.vercel.app/#projects">
-    <img src="https://img.shields.io/badge/See%20full%20portfolio-%E2%86%92-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
+    <img src="https://img.shields.io/badge/See%20full%20portfolio-%E2%86%92-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
   </a>
 </p>
 
@@ -181,12 +181,12 @@ Full-stack experience across **frontend**, **backend**, **databases**, and **mob
 <div align="center">
 
   ### Contribution graph
-  <img src="https://ghchart.rshah.org/58A6FF/haileamlakwalelige" alt="Haileamlak's GitHub contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/haileamlakwalelige" alt="Haileamlak's GitHub contribution chart" width="100%" />
 
   <br/><br/>
 
   ### Activity over time
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haileamlakwalelige&theme=github&hide_border=true&area=true&color=40c463&line=3fb950&point=2ea44f" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -197,17 +197,17 @@ Full-stack experience across **frontend**, **backend**, **databases**, and **mob
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haileamlakwalelige&theme=tokyonight&row=1&column=7&margin-w=8&no-bg=true" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haileamlakwalelige&theme=matrix&row=1&column=7&margin-w=8&no-bg=true" alt="GitHub trophies" />
   </a>
 
   <br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=haileamlakwalelige&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlakwalelige&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=haileamlakwalelige&show_icons=true&theme=chartreuse&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlakwalelige&layout=compact&theme=chartreuse&hide_border=true&langs_count=8" alt="Top languages" />
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=haileamlakwalelige&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=haileamlakwalelige&theme=merko&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -216,13 +216,13 @@ Full-stack experience across **frontend**, **backend**, **databases**, and **mob
 ## Profile summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haileamlakwalelige&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haileamlakwalelige&theme=vue" alt="Profile details" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haileamlakwalelige&theme=tokyonight" height="150" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haileamlakwalelige&theme=tokyonight" height="150" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haileamlakwalelige&theme=vue" height="150" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haileamlakwalelige&theme=vue" height="150" alt="Most commit language" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haileamlakwalelige&theme=tokyonight" height="150" alt="Stats card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haileamlakwalelige&theme=tokyonight&utcOffset=3" height="150" alt="Productive time (EAT)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haileamlakwalelige&theme=vue" height="150" alt="Stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haileamlakwalelige&theme=vue&utcOffset=3" height="150" alt="Productive time (EAT)" />
 </div>
 
 ---
@@ -249,6 +249,6 @@ Want to collaborate or hire me? Reach out anytime:
 
 Explore more on my [portfolio](https://haileopia.vercel.app/) — and feel free to star a repo if you like the work.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:238636,100:0D1117&height=120&section=footer" alt="footer wave" />
 
 </div>
