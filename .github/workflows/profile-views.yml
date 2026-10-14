@@ -1,6 +1,10 @@
 name: Profile views counter
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'views.json'
   schedule:
     - cron: '17 */6 * * *'
   workflow_dispatch:
@@ -19,19 +23,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update view count
+      - name: Increment view count
         run: node .github/scripts/update-views.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git diff --quiet -- views.json; then
-            echo "No view changes to commit"
+            echo "No changes to commit"
           else
             git add views.json
-            git commit -m "chore: update profile views [skip ci]"
+            git commit -m "chore: bump profile views [skip ci]"
             git push
           fi
