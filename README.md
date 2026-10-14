@@ -23,7 +23,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=haileamlakwalelige&label=Profile%20views&color=2ea44f&style=for-the-badge&cb=1" alt="Profile views" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhaileamlakwalelige%2Fhaileamlakwalelige%2Fmain%2Fviews.json&style=for-the-badge&cacheSeconds=300" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/haileamlakwalelige?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
     <img src="https://img.shields.io/badge/Available-Open%20to%20Work-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
   </p>
